@@ -8,7 +8,7 @@ In this project we will use whole-brain modelling of fMRI data from the [Stockho
 
 We will be using a newly-developed approach for whole-brain modelling in Python using `PyTorch`, a widely-used machine learning library, as well as various standard Python neuroimaging tools (`nilearn`, `nibabel`, `hcp_utils`). All of the code needed is contained in this repo, and instructions for downloaded the requisite data are given below. 
 
-
+[Project Final Presentation](https://docs.google.com/presentation/d/1amlcwaHR0IFHZ6MLfMGqk7WJV7Pv0AG0_cTUc4Y7cZs/edit?usp=sharing)
 
 
 ## Setup Intructions
